@@ -17,6 +17,13 @@ A collection of awesome things regarding chat bots
 - [Facebook messenger](https://developers.facebook.com/docs/messenger)
 - [Telegram](https://core.telegram.org/)
 - [Microsoft Bot Framework](https://dev.botframework.com/)
+- [Cleverbot](http://www.cleverbot.com/)
+
+## Existing chatbots:
+- [ A. L. I. C. E.](http://alice.pandorabots.com/)
+- [Mitsuku](http://www.mitsuku.com/)
+- [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/DesktopLanding)
+- [Microsoft Tay](https://twitter.com/tayandyou)
 
 ## Chatbot tools
 - [TuringRobot－The most intelligent robot brain](http://www.tuling123.com/)
