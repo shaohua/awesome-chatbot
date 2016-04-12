@@ -12,6 +12,7 @@ A collection of awesome things regarding chat bots
 - [Hyper - chat based Travel Agent](https://www.usehyper.com/)
 - [Cleverbot](http://www.cleverbot.com/)
 - [Sensay - The most helpful person you've never met](http://www.sensay.it/)
+- [Assist - Bring services to messaging apps](https://www.assi.st/)
 
 ## Big chatbot platforms
 - [Wechat official account](https://admin.wechat.com/)
