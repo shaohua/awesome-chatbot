@@ -13,6 +13,7 @@ A collection of awesome things regarding chat bots
 - [Cleverbot](http://www.cleverbot.com/)
 - [Sensay - The most helpful person you've never met](http://www.sensay.it/)
 - [Assist - Bring services to messaging apps](https://www.assi.st/)
+- [Backchannel - Enable every business, advertiser, phone number to support messaging] (http://dev.backchannel.net/)
 
 ## Big chatbot platforms
 - [Wechat official account](https://admin.wechat.com/)
