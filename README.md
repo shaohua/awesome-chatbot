@@ -33,3 +33,6 @@ A collection of awesome things regarding chat bots
 ## Note:
 - Resources gathered during a hackathon
 - Feel free to pull request to add more resources
+
+## One graph to rule it all [ref](http://www.economist.com/news/business-and-finance/21696477-market-apps-maturing-now-one-text-based-services-or-chatbots-looks-poised):
+![20160409_wbc033](https://cloud.githubusercontent.com/assets/806173/14470823/7a0c8958-00a0-11e6-9d79-c871c7d3bd4f.png)
