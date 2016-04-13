@@ -5,8 +5,10 @@ A collection of awesome things regarding chat bots
 - [msg.ai - AI for Conversational Commerce](http://msg.ai/)
 - [wit.ai - Natural Language for Developers
 ](https://wit.ai/)
+- [api.ai - Conversational UX platform](https://api.ai/)
 - [Chatfuel - Chatbot platform](http://chatfuel.com/)
 - [Prompt - Chatbot platform](http://promptapp.io/)
+- [Gupshup - Chatbot platform](https://www.gupshup.io)
 - [Magic - Text to get anything ondemand](https://getmagicnow.com/)
 - [Good service - get anything done over chat](http://www.goodservice.in/)
 - [Hyper - chat based Travel Agent](https://www.usehyper.com/)
