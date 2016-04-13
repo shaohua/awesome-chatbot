@@ -19,7 +19,7 @@ A collection of awesome things regarding chat bots
 ## Big chatbot platforms
 - [Wechat official account](https://admin.wechat.com/)
 - [Slack](https://api.slack.com/bot-users)
-- [Facebook messenger](https://developers.facebook.com/docs/messenger)
+- [Facebook messenger](https://developers.facebook.com/docs/messenger-platform)
 - [Telegram](https://core.telegram.org/)
 - [Microsoft Bot Framework](https://dev.botframework.com/)
 
