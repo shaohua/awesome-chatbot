@@ -33,6 +33,7 @@ A collection of awesome things regarding chat bots
 
 ## Chatbot tools
 - [TuringRobot－The most intelligent robot brain](http://www.tuling123.com/)
+- [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit)
 
 ## Note:
 - Resources gathered during a hackathon
