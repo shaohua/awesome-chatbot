@@ -15,6 +15,7 @@ A collection of awesome things regarding chat bots
 - [Cleverbot](http://www.cleverbot.com/)
 - [Sensay - The most helpful person you've never met](http://www.sensay.it/)
 - [Assist - Bring services to messaging apps](https://www.assi.st/)
+- [Botsociety - Chatbot design: preview, mockups, and export](https://botsociety.io)
 - [Notify - Conversational experiences that drive revenue] (http://www.notify.io)
 - [Backchannel - developer platform for building messaging bots] (http://dev.backchannel.net/)
 
