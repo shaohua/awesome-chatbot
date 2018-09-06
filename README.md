@@ -20,6 +20,7 @@ A collection of awesome things regarding chat bots
 - [Backchannel - developer platform for building messaging bots] (http://dev.backchannel.net/)
 
 ## Big chatbot platforms
+- [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 - [Wechat official account](https://admin.wechat.com/)
 - [Slack](https://api.slack.com/bot-users)
 - [Facebook messenger](https://developers.facebook.com/docs/messenger-platform)
