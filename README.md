@@ -38,6 +38,73 @@ A collection of awesome things regarding chat bots
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit)
 - [Broid - Multiple Messaging Channels with One OpenSource Language.](https://github.com/broidHQ/integrations/tree/master)
 
+
+## Debug a Bot
+- https://www.chatbotproxy.com/
+
+## Hack a Bot
+- https://howdy.ai/botkit/
+- https://github.com/amitevski/botframework
+- https://spacy.io/
+- https://github.com/tensorflow/models/tree/master/syntaxnet
+- http://www.nltk.org/
+- https://github.com/nlp-compromise/nlp_compromise
+- https://github.com/wit-ai/duckling
+- https://adapt.mycroft.ai/
+- https://github.com/superscriptjs/superscript
+- https://dev.botframework.com/
+- https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html
+- https://cloud.google.com/products/machine-learning/
+- https://azure.microsoft.com/en-us/services/cognitive-services/
+- https://github.com/paked/messenger
+- https://hubot.github.com/
+- http://errbot.io/en/latest/
+- https://www.rivescript.com/
+- http://chatscript.sourceforge.net/
+- http://www.alicebot.org/aiml.html
+- https://www.twilio.com/ip-messaging
+- https://github.com/google/bottery
+
+## Design a Bot
+- https://bots.mockuuups.com/
+- https://botsociety.io/
+
+## Host a Bot
+- https://heroku.com/
+- https://www.pythonanywhere.com
+- https://aws.amazon.com/de/lambda/
+- https://stamplay.com/
+- https://cloud.google.com/functions/
+
+## Run a Bot
+- https://api.slack.com/bot-users
+- https://developers.facebook.com/products/messenger/
+- https://telegram.org/blog/bots-2-0
+- https://developer.microsoft.com/en-us/skype/bots
+- http://open.wechat.com/
+
+## List a Bot
+- https://thereisabotforthat.com/
+- https://botlist.co/
+- https://slack.com/apps
+- https://www.producthunt.com/  
+- https://storebot.me/  
+- http://botsbook.com/  
+
+## Analyse your Bot
+- http://www.botlytics.co/
+
+## Historic Bots
+- http://elizagen.org/
+- http://parrynoid.org/
+- https://tools.ietf.org/html/rfc439
+
+## Talk about Bots
+- https://www.facebook.com/groups/chatbot/
+- https://botmakers.org/
+- http://devchat.devolio.net/ (#bots)
+- https://www.facebook.com/groups/botdesigners/
+
 ## Note:
 - Resources gathered during a hackathon
 - Feel free to pull request to add more resources
