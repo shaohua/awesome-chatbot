@@ -18,6 +18,7 @@ A collection of awesome things regarding chat bots
 - [Botsociety - Chatbot design: preview, mockups, and export](https://botsociety.io)
 - [Notify - Conversational experiences that drive revenue] (http://www.notify.io)
 - [Backchannel - developer platform for building messaging bots] (http://dev.backchannel.net/)
+- [DoaCam - Real-time 3D AI avatar you can video call, powered by Google Gemini](https://doacam.com/)
 
 ## Big chatbot platforms
 - [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
