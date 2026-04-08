@@ -37,6 +37,7 @@ A collection of awesome things regarding chat bots
 - [TuringRobot－The most intelligent robot brain](http://www.tuling123.com/)
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit)
 - [Broid - Multiple Messaging Channels with One OpenSource Language.](https://github.com/broidHQ/integrations/tree/master)
+- [Overloop CLI - AI-powered outbound engine. Source 450M+ contacts, run email + LinkedIn conversations. JSON output.](https://github.com/sortlist/overloop-cli)
 
 ## Note:
 - Resources gathered during a hackathon
