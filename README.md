@@ -30,6 +30,7 @@ A collection of awesome things regarding chat bots
 ## Existing chatbots:
 - [ A. L. I. C. E.](http://alice.pandorabots.com/)
 - [Mitsuku](http://www.mitsuku.com/)
+- [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/DesktopLanding)
 - [Microsoft Tay](https://twitter.com/tayandyou)
 
